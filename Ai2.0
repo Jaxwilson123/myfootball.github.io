@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ဘောလုံးခန့်မှန်းချက်များ</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .match { border: 1px solid #ddd; padding: 15px; margin-bottom: 10px; border-radius: 5px; }
+        .prediction { color: green; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>နေ့စဉ်ဘောလုံးခန့်မှန်းချက်များ</h1>
+    
+    <div class="match">
+        <h3>မန်ချက်စတာ ယူနိုက်တက် vs လီဗာပူး</h3>
+        <p>ခန့်မှန်းရက်စွဲ: 2023-12-15</p>
+        <p class="prediction">အနိုင်ရနိုင်ခြေ: မန်ယူ 45% | သရေ 30% | လီဗာပူး 25%</p>
+        <p>Value Bet: မန်ယူ @ 2.50 (Value +12%)</p>
+    </div>
+
+    <div class="match">
+        <h3>အာဆင်နယ် vs ချယ်ဆီး</h3>
+        <p>ခန့်မှန်းရက်စွဲ: 2023-12-16</p>
+        <p class="prediction">အနိုင်ရနိုင်ခြေ: အာဆင်နယ် 60% | သရေ 20% | ချယ်ဆီး 20%</p>
+        <p>Value Bet: အာဆင်နယ် @ 1.80 (Value +8%)</p>
+    </div>
+
+    <footer>
+        <p>နောက်ဆုံးအပ်ဒိတ်: 2023-12-10</p>
+    </footer>
+</body>
+</html>
